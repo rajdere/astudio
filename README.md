@@ -149,10 +149,6 @@ Authorization: Bearer {{token}}
 
 ---
 
-## 📜 License
-This project is open-source under the [MIT License](LICENSE).
-
----
 
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -160,5 +156,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ---
 
 ## 📧 Contact
-For any questions or suggestions, please reach out at **admin@example.com**.
+For any questions or suggestions, please reach out at **rajdere77@gmail.com**.
 
